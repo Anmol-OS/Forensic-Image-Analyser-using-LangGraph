@@ -1,18 +1,5 @@
-# 🕵️‍♂️ Forensic Image Analyzer | CodeFusion Hackathon
+# 🕵️‍♂️ Forensic Image Analyzer
 
-**Developed by Team ChaiKadak**  
-_For the CodeFusion Hackathon (hosted by Google Developers Group on Campus JIIT-128)_
-
----
-
-## 🍵 Team ChaiKadak
-
-- **Anmol Bhatnagar**  
-  Enrollment: 992401040039  
-- **Dhruv Arora**  
-  Enrollment: 992401040023  
-
----
 
 ## 🚀 Project Overview
 
@@ -118,10 +105,3 @@ This ensures:
   - Wrapped expert reporting for maximum readability  
 
 ---
-
-## 🏆 Hackathon
-
-**CodeFusion Hackathon**  
-Hosted by **GDG on Campus JIIT-128**  
-
-**Team:** ChaiKadak 🍵  
